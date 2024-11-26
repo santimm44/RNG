@@ -14,9 +14,9 @@ Have your application themed and make sure your list of names is the class plus 
 You also need to have a section that shows the previous 5 names that were pulled from your Random Name Generator.
 Don't forget to have fun!!!
 
-## Reviewed by:
+## Reviewed by: Gianpaolo Reinares
 
-- Comment
+- Comment: Code Looks Great, love how the site functions; just remember to also change the title of the page from Bootstrap Demo;
 - Comment
 - Comment
 - Comment
