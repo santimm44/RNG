@@ -10,7 +10,7 @@ let seventhPerson = document.getElementById("seventhPerson");
 let ninthPerson = document.getElementById("ninthPerson");
 let tenthPerson = document.getElementById("tenthPerson");
 
-let arrayOfPriorNames = [];
+let arrayOfPriorNames = ["Prior Name","Prior Name","Prior Name","Prior Name","Prior Name"];
 
 generateBtn.addEventListener("click", function(){
     // alert("button works"); test button
